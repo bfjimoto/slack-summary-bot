@@ -1,0 +1,5 @@
+slack-sdk
+gspread
+google-auth
+google-api-python-client
+google-cloud-aiplatform
